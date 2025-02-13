@@ -5,11 +5,11 @@ const Modulo2 = () => {
     {
       nombre: "Zapatillas de Running Nike Air Zoom",
       imagen: "../public/nike.jpeg",
-      precio: 120.0,
+      precio: 220.0,
     },
     {
       nombre: "Chaqueta Deportiva Adidas",
-      imagen: "https://example.com/adidas-jacket.jpg",
+      imagen: "../public/chaqueta.jpeg",
       precio: 80.0,
     },
     {
